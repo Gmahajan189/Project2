@@ -4,6 +4,6 @@ Description: Data wrangling was performed on the set of datasets. The different 
 
 Dependencies: Pandas, Numpy, Matplotlib and Seaborn libraries were employed in the project
 Pandas: Data manipulation library that provides data structures like DataFrames for easy handling and analysis of structured data.
-NumPy: Fundamental library for numerical computing in Python, offering powerful array objects and mathematical functions for array operations.
+NumPy: Fundamental library for the numerical computing in Python, offering powerful array objects and mathematical functions for array operations.
 Matplotlib: Comprehensive plotting library for creating static, interactive, and publication-quality visualizations in Python.
 Seaborn: Statistical data visualization library that works well with Pandas and Matplotlib, offering high-level functions for creating informative statistical plots.
